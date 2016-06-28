@@ -1,0 +1,18 @@
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.exe
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.pdb
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.exe
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.pdb
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.Form1.resources
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.Properties.Resources.resources
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\BlankleyAndrewWarGUI.csproj.GenerateResource.Cache
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.exe
+C:\Users\Andrew\Desktop\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.pdb
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.exe.config
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.exe
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.pdb
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.exe
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\bin\Debug\WarGUI.pdb
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\BlankleyAndrewWarGUI.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.Form1.resources
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\WarGUI.Properties.Resources.resources
+C:\Users\Andy\Documents\GMIT\College USB\Java\C#\BlankleyAndrewWarGUI\BlankleyAndrewWarGUI\obj\x86\Debug\BlankleyAndrewWarGUI.csproj.GenerateResource.Cache
